@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
-Hi! This is my Portfolio, where you can find some informations about me, like my professional experience, my studies
-and contact.
+Olá! Este é meu Portfólio, onde você pode encontrar algumas informações sobre mim, como minha experiência profissional, meus estudos
+e contato.
